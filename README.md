@@ -7,5 +7,5 @@ Hosted by Thoughtworks.
 
 A short description of the problem is outlined above each solution.
 
-## License
+Note that the unit tests are quite basic and need to be improved.
 
